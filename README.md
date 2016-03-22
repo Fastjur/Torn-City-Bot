@@ -12,3 +12,4 @@ This bot will help you farm in the beginning of your Torn City career
 * Build in exceptions to urls, like the wiki and when not logged in
 * Allow the user to choose which crimes to perform
 * Allow a user to switch of the bot temporarily
+* The bot stays on the same screen if your crime fails. It also possibly messes up the `crime_step`
