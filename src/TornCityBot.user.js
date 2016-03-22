@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name         Torn City Gym and crime bot
-// @namespace    http://tampermonkey.net/
+// @name         Torn City automatic Gym and Crime bot
+// @namespace    http://liquidpineapple.net
 // @version      0.5
 // @description  Try to take over the world, for the lazy.
 // @author       Jurriaan Den Toonder<jurriaan.toonder@liquidpineapple.net>
+// @downloadURL  https://github.com/Fastjur/Torn-City-Bot/raw/master/src/TornCityBot.user.js
+// @updateURL    https://github.com/Fastjur/Torn-City-Bot/raw/master/src/TornCityBot.user.js
 // @match        http://www.torn.com/*
 // @require      http://code.jquery.com/jquery-2.2.2.min.js
 // @run-at       document-end
@@ -11,7 +13,6 @@
 // @grant        GM_setValue
 // @grant        GM_deleteValue
 // ==/UserScript==
-/* jshint -W097 */
 'use strict';
 
 $(document).ready(function(){
