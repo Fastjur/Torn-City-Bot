@@ -117,15 +117,15 @@ function doCrime(step) {
     }
     if (step === 2) {
         console.log("doCrime step 2");
-        $('input[name=crime][value=shoplift]').click();
+        $('input[name=crime][value=pickpocket]').click();
         GM_setValue('crime_step', 3);
     }
     if (step === 3) {
-        $('input[name=crime][value=sweetshop]').click();
+        $('input[name=crime][value=hobo]').click();
         GM_setValue('crime_step', 4);
     }
     if (step === 4) {
-        $('input[name=crime][value=extrastrongmints]').click();
+        //$('input[name=crime][value=extrastrongmints]').click();
         GM_setValue('crime_step', 5);
     }
     if (step === 5) {
