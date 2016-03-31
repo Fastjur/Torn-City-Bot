@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Torn City automatic Gym and Crime bot
 // @namespace    http://liquidpineapple.net
-// @version      0.5
+// @version      0.6
 // @description  Try to take over the world, for the lazy.
 // @author       Jurriaan Den Toonder<jurriaan.toonder@liquidpineapple.net>
 // @downloadURL  https://github.com/Fastjur/Torn-City-Bot/raw/master/src/TornCityBot.user.js
