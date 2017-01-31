@@ -1,6 +1,8 @@
 # Torn-City-Bot
 This bot will help you farm in the beginning of your Torn City career
 
+Note that this bot is currently in a very Alpha / early state, and it is more a fun sideproject than anything else. There is currently no way of specifying what crimes todo etc without altering the source code. This will be implemented in the feature.
+
 ##Installation
 
 1. Get [Tampermonkey](http://tampermonkey.net/)
